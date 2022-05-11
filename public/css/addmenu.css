@@ -1,0 +1,40 @@
+.container-box label {
+    color: black;
+    font-size: large;
+    font-weight: 500;
+    font-feature-settings: "abvf";
+}
+
+.container-box {
+    /* width: max-content; */
+}
+
+center h3 i {
+    color: green;
+}
+
+.clip {
+    height: 100vh;
+    width: 100vw;
+    z-index: -1;
+    position: absolute;
+    clip-path: circle(53.7% at 81% 19%);
+    /* clip-path: circle(45.0% at 81% 19%); */
+    background-image: url('https://source.unsplash.com/1200x500/?food');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.box-sh {
+    margin: auto;
+    padding: 1rem;
+    display: flex;
+    gap: 3rem;
+    width: 40vw;
+    box-shadow: 10px 10px 24px 0px rgba(0, 0, 0, 0.68);
+    -webkit-box-shadow: 10px 10px 24px 0px rgba(0, 0, 0, 0.68);
+    -moz-box-shadow: 10px 10px 24px 0px rgba(0, 0, 0, 0.68);
+    flex-direction: row;
+    align-items: center;
+}

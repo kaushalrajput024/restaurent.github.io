@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://source.unsplash.com/1200x500/?dark food');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.top_box h2 {
+    color: blue;
+}
+
+.top_box h1,
+p {
+    color: white;
+}
+
+.main_container {
+    box-shadow: 14px 14px 24px 0px rgba(0, 0, 0, 0.65);
+    -webkit-box-shadow: 14px 14px 24px 0px rgba(0, 0, 0, 0.65);
+    -moz-box-shadow: 14px 14px 24px 0px rgba(0, 0, 0, 0.65);
+    width: max-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.main_container label {
+    font-weight: 500;
+    font-size: larger;
+    color: aliceblue;
+}
+
+.main_container a {
+    text-decoration: none;
+}
+
+.Name_box {
+    display: flex;
+}

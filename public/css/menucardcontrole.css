@@ -1,0 +1,22 @@
+.table-heading th {
+    color: burlywood;
+    font-size: larger;
+    font-weight: 500;
+    font-style: oblique;
+}
+
+Table {
+    width: 100%;
+}
+
+Table a {
+    color: red;
+    font-weight: 500;
+}
+
+.customerno {
+    color: rgb(70, 19, 19);
+    font-size: large;
+    font-weight: 500;
+    font-style: oblique;
+}

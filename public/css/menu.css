@@ -1,0 +1,21 @@
+.quantity {
+    display: flex;
+    gap: 4px;
+    flex-direction: row;
+    align-items: baseline;
+    padding: 5px;
+}
+
+.price {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.fa-minus {
+    cursor: pointer;
+}
+
+.fa-plus {
+    cursor: pointer;
+}

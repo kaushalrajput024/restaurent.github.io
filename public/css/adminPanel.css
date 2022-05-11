@@ -1,0 +1,38 @@
+.profile-round {
+    width: 3rem;
+    background-position: center;
+    height: 3rem;
+    background-image: url('https://source.unsplash.com/50x100/?people');
+    border-radius: 50%;
+}
+
+.profile-online {
+    color: rgb(84, 243, 84);
+    position: absolute;
+    right: 100px;
+    bottom: 10px;
+}
+
+.card-1 {
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+    text-decoration: none;
+}
+
+.card-2 {
+    background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+    text-decoration: none;
+}
+
+.card-3 {
+    background-image: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);
+    text-decoration: none;
+}
+
+.card-4 {
+    background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    text-decoration: none;
+}
+
+.card1-body {
+    width: max-content;
+}

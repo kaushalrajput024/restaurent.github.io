@@ -1,0 +1,20 @@
+* {
+    transition: all 0.3s ease-in-out;
+}
+
+.container1 {
+    background-image: url('https://source.unsplash.com/1200x500/?food');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container_1 {
+    background-image: url('https://source.unsplash.com/1200x500/?restaurent');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/*navigation starts here*/

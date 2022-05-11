@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    height: auto;
+}
+
+center h2 {
+    color: white;
+}
+
+.card {
+    /* padding: 10px 10px; */
+    margin: 15px;
+    cursor: pointer;
+
+}
+
+.card h4 {
+    position: absolute;
+    top: left;
+    color: white;
+}
+
+.decision-button {
+    /* margin: 15px; */
+    width: 85%;
+}

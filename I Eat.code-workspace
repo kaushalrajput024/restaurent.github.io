@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"bodyparse",
+			"firstname",
+			"foodprice",
+			"lastname",
+			"mobilenumber",
+			"addmenu",
+			"authcontrollers",
+			"bodyparse",
+			"cnfrmpassword",
+			"controlle",
+			"creatsuccess",
+			"customerinformation",
+			"foodimage",
+			"foodname",
+			"foodprice",
+			"hashpassword",
+			"lastname",
+			"menucardcontrole",
+			"mobilenumber",
+			"ordernow",
+			"Pathadmin",
+			"Paytm",
+			"resultstore",
+			"signup"
+		]
+	}
+}
